@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my CV in English](http://academicpages.github.io/files/paper1.pdf)
+[Download my CV in French](http://academicpages.github.io/files/paper1.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
