@@ -78,6 +78,11 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    <!-- For software tools -->
+    {% elsif post.toolurl and post.sourcecode %}
+      <p><a href="{{ post.toolurl }}">Webpage</a> | <a href="{{ post.sourcecode }}">Source</a></p>
+    {% elsif post.sourcecode %}
+      <p><a <a href="{{ post.sourcecode }}">Source</a></p>
     {% endif %}
 
   </article>
