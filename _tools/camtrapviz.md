@@ -3,7 +3,7 @@ title: "Camtrapviz"
 collection: tools
 permalink: /tools/camtrapviz
 excerpt: 'Shiny app and R package to visualize camera trap data.'
-toolurl: 'https://lbbe-shiny.univ-lyon1.fr/camtrapviz/'
+toolurl: 'https://lbbe-shiny.univ-lyon1.fr/camtrapviz'
 sourcecode: 'https://github.com/LisaNicvert/camtrapviz'
 ---
 

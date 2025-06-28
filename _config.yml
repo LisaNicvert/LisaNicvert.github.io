@@ -29,9 +29,10 @@ author:
   location         : "Montpellier (France)"
   employer         : "FRB-Cesab"
   email            : "lisa.n@orange.fr" 
+  institution      : https://www.fondationbiodiversite.fr/en/membre/lisa-nicvert/
 
   # Academic websites
-  academia         : https://www.fondationbiodiversite.fr/en/membre/lisa-nicvert/
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=S-HW0doAAAAJ"
   orcid            : "http://orcid.org/0009-0006-5763-0865"
@@ -71,7 +72,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 staticman:
