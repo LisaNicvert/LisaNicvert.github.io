@@ -9,40 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV in English](http://academicpages.github.io/files/paper1.pdf)
-[Download my CV in French](http://academicpages.github.io/files/paper1.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [PhD in statistical ecology](/publication/2024-10-24-thesis), 2020-2024
+  * Laboratory of Biometry and Evolutionary Biology (University Lyon I)
+  * Supervisors: Stéphane Dray, Hervé Fritz
+* MSc "Ecology, Evolution, genomics", 2019-2020
+  * University Lyon I
+* Master of Engineering "Bioinformatics and modeling", 2017-2020
+  * INSA Lyon
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoc in conservation ecology, 2024-present
+  * FRB-Cesab, [DRAGON project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/dragon/)
+  * Supervisors: Colin Fontaine, Reto Schmucki
+* Complementary teaching activity, 2020-3032
+  * University Lyon I
+  * Teaching statistics and R programming at an undergraduate level (64 hours a year)
+* Research internship in statistical ecology, January-June 2020
+  * Laboratory of Biometry and Evolutionary Biology
+  * Inference and analysis of African mammals co-occurrence networks from camera trap data
+  * Supervisors: Stéphane Dray, Hervé Fritz
+* Bioinformatics internship, May-August 2019
+  * MaaT Pharma
+  * Design and creation of a database (PostgreSQL) and development of a web application for visualization and analysis of metagenomics data (R Shiny)
+  * Supervisors: Lilia Boucinha, Cyrielle Gasc
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * R, Python, C++
+  * SQL
+  * Git version control system
+  * Unix command line
+  * Use of a computing cluster with Slurm
+* Statistics & data analysis
+  * Multivariate statistics
+  * Parametric and non-parametric statistics
+  * Generalized linear models
+  * Network analyses
+  * Spatial analyses with R
+  * Data visualization with R
+  * Point processes
+  * Bayesian statistics
+  * Occupancy modelling
+* Ecology
+  * Community ecology
+  * Interaction networks
+  * African ecology
+  * Interaction niches
+  * Camera traps
+  
+Languages
+======
+* Fluent French (native language)
+* Advanced English (C1 level, TOEIC)
+* Upper-intermediate German (B2 level)
 
 Publications
 ======
@@ -56,12 +80,23 @@ Talks & posters
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+
+Scientific popularization
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Organisation for the Pint of Science festival, 2025
+  * Montpellier
+  * Planning and animation for 3 scientific popularization events
+* Scientific game jam, 6-7 April 2024
+  * Lyon
+  * Creation of a video game about plant-frugivore interactions, [_Frugivora_](https://pgmstudio.itch.io/frugivoria), with a team of developers and graphic designers over a weekend.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Volunteering with the Projet Pangolin association, 2020-2022
+  * Scientific illustrations (e.g. on [this page](https://www.projetpangolin.com/insectes-communs/))
+  * Blog posts on [models in ecology](https://www.projetpangolin.com/les-modeles-outils-des-sciences/) and [participatory science](https://www.projetpangolin.com/les-sciences-participatives-guide-complet-pour-simpliquer/) [in French]
+  * Animation of workshops with schoolchildren and high school students
+  
+* BARCamp, 2022
+  * Presentation of my PhD subject (recording available [here](https://youtu.be/LZ070zP8-wo?si=2gb6X1XISJGJ0pMX)).
+
+* Conférences embarquées, 2020
+  * Talking about science on rowing boats
