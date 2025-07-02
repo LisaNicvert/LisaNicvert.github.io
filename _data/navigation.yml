@@ -17,5 +17,5 @@ main:
   - title: "Software tools"
     url: /tools/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
