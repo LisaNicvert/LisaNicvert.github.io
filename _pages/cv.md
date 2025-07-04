@@ -13,10 +13,10 @@ redirect_from:
 Education
 ======
 * [PhD in statistical ecology](/publication/2024-10-24-thesis), 2020-2024
-  * Laboratory of Biometry and Evolutionary Biology (University Lyon I)
+  * Laboratory of Biometry and Evolutionary Biology (University Lyon 1)
   * Supervisors: Stéphane Dray, Hervé Fritz
-* MSc "Ecology, Evolution, genomics", 2019-2020
-  * University Lyon I
+* MSc "Ecology, Evolution, Genomics", 2019-2020
+  * University Lyon 1
 * Master of Engineering "Bioinformatics and modeling", 2017-2020
   * INSA Lyon
 
@@ -25,8 +25,8 @@ Professional experience
 * Postdoc in conservation ecology, 2024-present
   * FRB-Cesab, [DRAGON project](https://www.fondationbiodiversite.fr/en/the-frb-in-action/programs-and-projects/le-cesab/dragon/)
   * Supervisors: Colin Fontaine, Reto Schmucki
-* Complementary teaching activity, 2020-3032
-  * University Lyon I
+* Complementary teaching activity, 2020-2022
+  * University Lyon 1
   * Teaching statistics and R programming at an undergraduate level (64 hours a year)
 * Research internship in statistical ecology, January-June 2020
   * Laboratory of Biometry and Evolutionary Biology
