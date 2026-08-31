@@ -22,18 +22,27 @@ theme = ["kawaii"]
   
   [[params.social]]
     name = "mail"
+    display = "Email"
     url = "mailto:lisa.n@orange.fr"
 
   [[params.social]]
     name = "github"
+    display = "GitHub"
     url = "https://github.com/LisaNicvert"
   
   [[params.social]]
     name = "bluesky"
+    display = "Bluesky"
     url = "https://bsky.app/profile/lisanicvert.bsky.social"
   
   [[params.social]]
+    name = "researchgate"
+    display = "ResearchGate"
+    url = "https://www.researchgate.net/profile/Lisa-Nicvert"
+
+  [[params.social]]
     name = "linkedin"
+    display = "Linkedin"
     url = "https://www.linkedin.com/in/lisa-nicvert-4272181a0"
   
   [[params.footer_links]]
