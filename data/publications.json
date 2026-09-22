@@ -63,7 +63,7 @@
         "publisher": null,
         "doi": "10.1016/j.biocon.2026.111786",
         "url": null,
-        "pdf": null
+        "pdf": "/pdf/nicvert_linking_2026.pdf"
       },
       {
         "bibtexkey": "beck_citation_2026",
@@ -78,6 +78,20 @@
         "doi": "10.1093/biosci/biag028",
         "url": "https://dx.doi.org/10.1093/biosci/biag028",
         "pdf": "/pdf/beck_citation_2026.pdf"
+      },
+      {
+        "bibtexkey": "de_knijf_odontraits_2026",
+        "title": "OdonTraits Europe. A comprehensive traits dataset for European dragonflies and damselflies",
+        "author": "De Knijf Greet, Bried Jason, Engel Thore, Jeanmougin Martin, Fontaine Colin, Schmucki Reto, Nicvert Lisa",
+        "year": 2026,
+        "journal": "Scientific Data",
+        "volume": null,
+        "number": null,
+        "pages": null,
+        "publisher": "Nature Publishing Group",
+        "doi": "10.1038/s41597-026-07667-5",
+        "url": "https://www.nature.com/articles/s41597-026-07667-5",
+        "pdf": "/pdf/de_knijf_odontraits_2026.pdf"
       }
     ]
   }
